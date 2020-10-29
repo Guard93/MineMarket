@@ -2,7 +2,7 @@ MineMarket
 ==========
 https://minemarket.hu
 
-A MineMarket a VNG Planet Kft (Clans.hu) által fejlesztett Minecraft webshop rendszer, amely lehetővé teszi a szerver tulajdonosoknak, 
+A MineMarket a VNG Cégcsoport által fejlesztett Minecraft webshop rendszer, amely lehetővé teszi a szerver tulajdonosoknak, 
 hogy játékosbázisuk számára megvásárolható rangokat, tárgyakat kínáljanak egy átlátható, rugalmas, automatikus felületen.
 
 Jelen repóban lehet jelezni hibákat, fejlesztési ötleteket.
